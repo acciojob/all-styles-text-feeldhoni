@@ -2,10 +2,10 @@
 	width:200px;
 	background-color:purple;
 	border-left-color:green;
-	border-left-style:5px;
+	border-left:5px;
 	padding:10px;
 }
-.heading{
+#heading{
 	font-size:20px;
 	color:white;
 	
