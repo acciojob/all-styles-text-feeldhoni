@@ -1,9 +1,11 @@
 .main{
 	width:200px;
 	background-color:purple;
-	border-left-color:green;
+	border-left:5px;
+	border-color:green;
+	border-left-style:solid;
 	padding:10px;
-	border-left-width:5px;
+	
 }
 #heading{
 	font-size:20px;
